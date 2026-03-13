@@ -30,7 +30,7 @@ The webpage includes the following sections:
 ## Deployment
 The website is deployed using GitHub Pages and can be accessed at the following link:
 
-https://yourusername.github.io/mycv
+https://github.com/Nonduh-Xim/MyCV.git
 
 ---
 
